@@ -37,6 +37,7 @@ que vous avez appris dans ce chapitre.
 Révision
 --------
 
-* Coller depuis l'historique - "Ctrl + K" puis "Ctrl + V"
+* Supprimer le mot avant - "Ctrl + backward"
+* Supprimer le mot après - "Ctrl + Suppr"
 * Insérer une ligne après - "Ctrl + Entrée"
 * Insérer une ligne avant - "Ctrl + Shift + Entrée"

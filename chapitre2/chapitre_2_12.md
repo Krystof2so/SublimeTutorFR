@@ -55,5 +55,3 @@ Lors de l'écriture de programmes et de code, il est souvent utile de commenter
 quelques lignes lorsque vous souhaitez déboguer une section du programme.
 Commentez alors les lignes de code que vous soupçonnez, relancer le programme,
 il y a peut-être un indice.
-
-Passons au chapitre suivant - chapitre_2_13.md

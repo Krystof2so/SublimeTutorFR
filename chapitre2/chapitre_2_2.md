@@ -1,70 +1,66 @@
-Copier et coller avec une touche d'originalité
-==============================================
+Supprimer un mot en avant et en arrière
+=======================================
 
-Copier
-------
+* Supprimer le mot en arrière - Ctrl + backward
 
-1. Sélection
-
-Sélectionnez une zone, appuyez sur "Ctrl + C" pour copier son contenu. Il se
-trouve maintenant dans votre presse-papiers. Vous pouvez utiliser "Ctrl + V" 
-pour coller votre sélection n'importe où. C'est ainsi que le copier-coller
-fonctionne au niveau du système. Très bien.
-
-2. Ligne
-
-Et si vous n'avez rien de sélectionné ? Appuyez sur "Ctrl + C" pour copier la
-ligne sur laquelle le curseur est positionné.
+Si le curseur se trouve au milieu d'un mot, supprime le mot de puis la position
+du curseur jusqu'au début du mot. Si le curseur est placé avant le mot ou sur 
+un espace, supprime le mot précédent.
 
 
-Exercice
----------
+* Supprime le mot en avant - Ctrl + Suppr
 
-1. Mettons en pratique ce que nous avons appris. Copiez le premier mot figurant 
-   entre les guillemtes simples ('') dans le bloc de texte ci-dessous, puis en 
-   le collant à la ligne 37. Suivez ce processus pour tous les autres mots 
-   insérés entre des guillemets simples, individuellemnt.
+Si le curseur se trouve au milieu d'un mot, il supprime le mot depuis la position
+du curseur jusqu'à la fin de ce mot. Si le curseur est placé à la fin d'un mot ou 
+sur un espace, supprime le mot suivant.  
+
+
+Exercice 1
+----------
+
+Le bloc ci-dessous contient des mots dont l'orthographe est incorrecte. Placez 
+votre curseur à l'intérieur de ces mots afin que vous puissiez utiliser les deux 
+raccourcis que vous avez appris pour en corriger l'orthographe.
 
 ```
 
-En une 'fraction' de seconde, il y a '65 millions' d'années, un 'énorme'
-astéroïde s'est effondré et a anéanti toute la 'race' des 'dinosaures'.
-
-Alors, sauvegardez votre travail 'souvent'. Cela pourrait 'se reproduire'.
+Il y yyya des mmmmots dans ce blocbloc qui sontttt mal éééécrits. Corrigez-lllles
+à l'aideeee dddes raccourcisssss "ssssupprimer lllle motttt en arrière/en avanttt"
 
 ```
 
-Collez les mots ici => 
 
-2. Vous avez bien copié tous les mots ? Maintenant, à partir du même bloc de 
-   texte ci-dessus, copiez la deuxième ligne et la coller ci dessous.
+Exercice 2
+----------
 
-Collez la ligne ici =>
+Le bloc ci-dessous contient quelques mots qui doivent être supprimés. Déplacez 
+votre curseur à la fin du mot qui doit être supprimé et utilisez le raccourci 
+"Ctrl + Suppr" pour supprimer ce mot.
 
+```
 
-Coller avec une touche d'originalité
-------------------------------------
+Il y a des mots amusants qui n'appartiennent pas au papier dans cette phrase.
 
-Et si je vous disais maintenant, répétez le processus que vous avez suivi 
-ci-dessus et collez-le ci-dessous ? Eh bien, ce serait du travail. Mais il 
-existe un moyen d'en réduire une partie.
-
-Sublime propose une fonction qui vous permet d'accéder à l'historique de votre
-presse-papiers et réaliser un "coller" depuis cet historique. Voyons cela.
-
-Appuyez sur "Ctrl + K" puis "Ctrl + V", sublime vous montrera une liste de 
-contenus que nous avons copié dans le presse-papiers. En sélectionnant l'un d'entre eux, vous pourrez alors le coller.
-
-Utilisez maintenant cette fonctionnalité pour coller tous les éléments un par un ci-dessous :
-
-Coller tous les mots ici => 
+```
 
 
 Révision
 --------
 
+Vous avez étudié quelques raccourcis pour insérer une ligne avant et après. 
+Placez votre curseur sur la ligne ci-dessous marquée `<==` . Utilisez le 
+raccourci pour ajouter une ligne avant puis ajouter une ligne après.
+
+```
+
+Cette ligne doit avoir un écart avec la deuxième ligne
+La ligne où vous devez placer votre curseur <==
+Cette ligne doit présenter un écart par rapport à la ligne précédente
+
+```
+
 * "Goto Anything" - "Ctrl + P"
 * "Goto Symbol" - "Ctrl + R"
 * "Goto Line number" - "Ctrl + G"
 
-De bons progrès ! Faites une pause et passez au chapitre suivant.
+Maintenant, passez au chapitre suivant.

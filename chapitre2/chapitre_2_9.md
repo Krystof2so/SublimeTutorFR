@@ -25,20 +25,14 @@ Refaisons le même exercice en utilisant maintenant ce raccourci.
 
 ```
 
-6. Il s'agit de la ligne numéro 6
-1. Il s'agit de la ligne numéro 1
-6. Il s'agit de la ligne numéro 6
-5. Il s'agit de la ligne numéro 5
+6. Il s'agit de la ligne numéro six
+1. Il s'agit de la ligne numéro une
+6. Il s'agit de la ligne numéro six
+5. Il s'agit de la ligne numéro five
 4. Il s'agit de la ligne numéro quatre
 3. Il s'agit de la ligne numéro trois
-2. Il s'agit de la ligne numéro 2
-2. Il s'agit de la ligne numéro 2
+2. Il s'agit de la ligne numéro deux
+2. Il s'agit de la ligne numéro deux
 3. Il s'agit de la ligne numéro trois
 
 ```
-
-Conseil : Si vous souhaitez effectuer un tri qui soit sensible à la casse des 
-lignes, utilisez la touche "Ctrl". "Ctrl + F9"
-
-
-Merveilleux ! Passons maintenant au chapitre_2_10.md.
