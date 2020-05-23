@@ -36,6 +36,3 @@ option
 espace
 
 ```
-
-Testez dès à présent ces deux raccourcis sur un de vos travaux actuels.Vous
-verrez, comme vous vous sentirez bien plus productif !

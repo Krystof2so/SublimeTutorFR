@@ -1,10 +1,8 @@
 Autres commandes
 ================
 
-C'est le dernier chapitre du cours. Vous devriez maintenant avoir une bonne
-compréhension des fonctionnalités supportées par le Sublime Text 3. Il existe
-deux autres commandes fréquemment utilisées qui sont spécifiques au paramétrage 
-de Sublime Text et à sa console Python.
+Il existe deux autres commandes fréquemment utilisées qui sont spécifiques au
+paramétrage de Sublime Text et à sa console Python.
 
 
 Configuration de Sublime Text
@@ -13,9 +11,7 @@ Configuration de Sublime Text
 Raccourci - Cliquez sur l'élément de menu : Préférences > Paramètres
 
 Cela vous donne les paramètres par défaut de Sublime Text. Il s'agit d'un
-fichier json où vous pouvez voir tous les paramètres par défaut. Si vous 
-souhaitez les modifier, consultez la section "Préférences > Paramètres" où sont 
-placés les paramètres modifiés par l'utilisateur.
+fichier json où vous pouvez voir tous les paramètres par défaut.
 
 
 Exercice
@@ -25,7 +21,7 @@ Ouvrez "Settings" et ajoutez en haut la paire de clé:valeurs donnée ci-dessous
 
 ```Json
 
-"spell_check" : vrai
+"spell_check" : true
 
 ```
 
@@ -64,7 +60,7 @@ La palette de commandes
 
 C'est un endroit fréquemment visité par tous les utilisateurs avancés de 
 Sublime Text. Vous obtenez une liste des commandes qui sont préparées par 
-défaut par le QG Sublime, ainsi que les commandes ajoutées par des plugins.
+défaut par le QG Sublime, ainsi que les commandes ajoutées par des greffons.
 
 Raccourci - "Ctrl + Shift + P
 

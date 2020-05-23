@@ -30,10 +30,4 @@ Exercice
    avec cette commande.
 5. Lorsque vous avez fini de jouer avec cette commande, passez au chapitre
    suivant.
-
-
-Nous avons presque atteint la fin de ce cours. Le chapitre suivant (et aussi le 
-dernier) vous présente la console Python dans Sublime Text et la façon de 
-modifier les paramètres qui sont gérés par le biais de certains fichiers "JSON".
-
-Passons au module suivant - `chapitre_6.md`.
+   
